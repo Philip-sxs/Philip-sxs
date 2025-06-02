@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Philip-sxs
+- 👋 Hi, I’m Philip
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Phiton
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me palyrd6@gmail.com
 - 😄 Pronouns: he
